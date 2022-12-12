@@ -5,7 +5,11 @@ Install first the needed libraries in python using pip installer
 input this to your cmd
 
 pip install opencv-python
+
+
 pip install os-sys
+
+
 pip install numpy
 
 and download the Haarcascade_frontalface_default file

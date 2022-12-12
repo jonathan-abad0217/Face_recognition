@@ -20,7 +20,6 @@ File Tree
 Face_recognition folder
          datasets folder:         #inside Face_recognition folder
          example "Jonathan"       #data folder for Jonathan
-        
         This python file is inside the face_recognition folder 
         create_data.py            #first time getting data from user
         face_recognize.py         #program recognition when there is data on folder
